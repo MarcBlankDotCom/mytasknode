@@ -1,0 +1,26 @@
+{
+  "name": "mytasknode",
+  "version": "0.0.1",
+  "description": "My Task application in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcBlankDotCom/mytasknode.git"
+  },
+  "keywords": [
+    "framework",
+    "express",
+    "web",
+    "node",
+    "task"
+  ],
+  "author": "MarcBlank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcBlankDotCom/mytasknode/issues"
+  },
+  "homepage": "https://github.com/MarcBlankDotCom/mytasknode#readme"
+}
